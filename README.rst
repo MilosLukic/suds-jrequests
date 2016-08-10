@@ -1,6 +1,14 @@
 Overview
 =================================================
 
+This is a fork from suds-jurko 0.7 development branch. It integrates requests library to override suds default
+xml fetching. It solves the problem with https imports that normal version recognized as http.
+
+Be sure to have requests library installed in your virtual environment.
+
+http://docs.python-requests.org/en/master/
+
+
 "Suds" is a lightweight SOAP-based web service client for Python licensed under
 LGPL (see the ``LICENSE.txt`` file included in the distribution).
 

@@ -18,6 +18,7 @@ XML document reader classes providing integration with the suds library's
 caching system.
 
 """
+import requests
 
 import suds.cache
 import suds.plugin
