@@ -8,6 +8,15 @@ Be sure to have requests library installed in your virtual environment.
 
 http://docs.python-requests.org/en/master/
 
+How to install?
+Just add next link to requirements:
+
+https://github.com/MilosLukic/suds-jrequests/archive/master.zip
+
+Or run:
+
+https://github.com/MilosLukic/suds-jrequests/archive/master.zip
+
 
 "Suds" is a lightweight SOAP-based web service client for Python licensed under
 LGPL (see the ``LICENSE.txt`` file included in the distribution).
